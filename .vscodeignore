@@ -1,0 +1,10 @@
+.vscode/**
+.vscode-test/**
+.codex
+.codex/**
+.git/**
+.gitignore
+node_modules/**
+package-lock.json
+*.vsix
+vsc-extension-quickstart.md
