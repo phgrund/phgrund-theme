@@ -1,6 +1,6 @@
 # phgrund's theme
 
-phgrund's theme is a dark Visual Studio Code theme built around deep blue editor surfaces, electric cyan accents, and readable syntax contrast.
+phgrund's theme is a dark Visual Studio Code theme tuned around deep blue editor surfaces, electric cyan accents, and clear syntax contrast built for long sessions.
 
 ## Preview
 
@@ -17,6 +17,10 @@ Install it from the Visual Studio Code Marketplace, then select it with:
 1. Open the Command Palette.
 2. Run `Preferences: Color Theme`.
 3. Choose `phgrund's theme`.
+
+## Release Notes
+
+See `CHANGELOG.md` for the full history. The current release (0.0.2) updates the marketplace label to `phgrund's theme` and refreshes the copy to match the cyan-forward palette.
 
 ## Local Packaging
 

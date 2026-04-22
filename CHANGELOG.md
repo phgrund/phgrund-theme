@@ -4,6 +4,10 @@ All notable changes to `phgrund-theme` are documented in this file.
 
 ## [Unreleased]
 
+_No unreleased changes yet._
+
+## [0.0.2] - 2026-04-22
+
 ### Changed
 
 - Renamed the public theme label from `PHGrund Theme` to `phgrund's theme` across the extension manifest, theme metadata, README, and quickstart notes.

@@ -2,7 +2,7 @@
   "name": "phgrund-theme",
   "displayName": "phgrund's theme",
   "description": "A crisp dark VS Code theme shaped around phgrund's cyan-forward editor palette and high-contrast accents.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "phgrund",
   "author": "phgrund",
   "license": "MIT",
