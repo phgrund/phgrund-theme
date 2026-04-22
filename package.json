@@ -6,6 +6,10 @@
   "publisher": "phgrund",
   "author": "phgrund",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phgrund/phgrund-theme.git"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
