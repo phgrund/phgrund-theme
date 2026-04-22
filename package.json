@@ -1,7 +1,7 @@
 {
   "name": "phgrund-theme",
-  "displayName": "PHGrund Theme",
-  "description": "A crisp dark VS Code theme with cyan highlights and high-contrast editor accents.",
+  "displayName": "phgrund's theme",
+  "description": "A crisp dark VS Code theme shaped around phgrund's cyan-forward editor palette and high-contrast accents.",
   "version": "0.0.1",
   "publisher": "phgrund",
   "author": "phgrund",
@@ -36,7 +36,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "PHGrund Theme",
+        "label": "phgrund's theme",
         "uiTheme": "vs-dark",
         "path": "./themes/phgrund-theme-color-theme.json"
       }
