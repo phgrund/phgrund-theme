@@ -1,14 +1,14 @@
 {
-  "name": "phgrund-theme",
-  "displayName": "phgrund's theme",
-  "description": "A crisp dark VS Code theme shaped around phgrund's cyan-forward editor palette and high-contrast accents.",
-  "version": "0.0.2",
+  "name": "ion-city",
+  "displayName": "Ion City",
+  "description": "A crisp dark VS Code theme with deep blue city-night surfaces, electric cyan accents, and readable syntax contrast.",
+  "version": "1.0.0",
   "publisher": "phgrund",
   "author": "phgrund",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phgrund/phgrund-theme.git"
+    "url": "https://github.com/phgrund/ion-city-theme.git"
   },
   "engines": {
     "vscode": "^1.85.0"
@@ -20,15 +20,16 @@
     "theme",
     "dark theme",
     "cyan",
-    "phgrund"
+    "ion",
+    "city"
   ],
   "galleryBanner": {
     "color": "#040B15",
     "theme": "dark"
   },
   "scripts": {
-    "package": "vsce package",
-    "publish": "vsce publish"
+    "package": "vsce package --yarn --no-dependencies",
+    "publish": "vsce publish --yarn --no-dependencies"
   },
   "devDependencies": {
     "@vscode/vsce": "^3.0.0"
@@ -36,9 +37,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "phgrund's theme",
+        "label": "Ion City",
         "uiTheme": "vs-dark",
-        "path": "./themes/phgrund-theme-color-theme.json"
+        "path": "./themes/ion-city-color-theme.json"
       }
     ]
   }
